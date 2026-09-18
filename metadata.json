@@ -1,0 +1,6 @@
+{
+  "name": "TouchPad",
+  "description": "Expressive multi-instrument digital music instrument and Web MIDI performance platform featuring Indian and Western virtual instruments, microtonal touch surface, and MIDI playback visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
